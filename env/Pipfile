@@ -7,6 +7,10 @@ verify_ssl = true
 
 [packages]
 django = "*"
+graphene-django = "*"
+django-cors-headers = "*"
+django-graphql-jwt = "==0.3.0"
+django-graphql-auth = "*"
 
 [requires]
 python_version = "3.8"
