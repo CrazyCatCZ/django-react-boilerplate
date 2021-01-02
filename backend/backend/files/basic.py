@@ -9,9 +9,7 @@ INSTALLED_APPS = [
 
     'users',
 
-    'django_filters',
     'graphene_django',
-    "graphql_auth",
     'graphql_jwt.refresh_token.apps.RefreshTokenConfig',
 
 ]
