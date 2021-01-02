@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==3.1.4"
+graphene-django = "==2.15.0"
+django-cors-headers = "==3.6.0"
+django-graphql-jwt = "==0.3.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

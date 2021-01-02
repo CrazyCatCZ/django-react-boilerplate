@@ -1,4 +1,3 @@
-
 #define path to files
 ROOT_URLCONF = 'backend.urls'
 WSGI_APPLICATION = 'backend.wsgi.application'
